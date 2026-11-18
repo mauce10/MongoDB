@@ -1,0 +1,1515 @@
+[{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d1"
+  },
+  "nombre": "Cargador - Modelo 1",
+  "categoria": "Electrónica",
+  "precio": 164.97,
+  "stock": 97,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Adidas",
+  "fecha_agregado": {
+    "$date": "2024-08-28T05:00:00.000Z"
+  },
+  "calificacion": 4.9
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d2"
+  },
+  "nombre": "Enciclopedia - Modelo 2",
+  "categoria": "Libros",
+  "precio": 172.23,
+  "stock": 5,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-02-26T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d3"
+  },
+  "nombre": "Estante - Modelo 3",
+  "categoria": "Hogar",
+  "precio": 364.05,
+  "stock": 9,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-04-20T05:00:00.000Z"
+  },
+  "calificacion": 4.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d4"
+  },
+  "nombre": "Carro de juguete - Modelo 4",
+  "categoria": "Juguetes",
+  "precio": 414.47,
+  "stock": 49,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "HP",
+  "fecha_agregado": {
+    "$date": "2024-01-10T05:00:00.000Z"
+  },
+  "calificacion": 3.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d5"
+  },
+  "nombre": "Cortinas - Modelo 5",
+  "categoria": "Hogar",
+  "precio": 187.91,
+  "stock": 9,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-12-22T05:00:00.000Z"
+  },
+  "calificacion": 4.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d6"
+  },
+  "nombre": "Manual - Modelo 6",
+  "categoria": "Libros",
+  "precio": 74.77,
+  "stock": 82,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Samsung",
+  "fecha_agregado": {
+    "$date": "2024-08-03T05:00:00.000Z"
+  },
+  "calificacion": 4.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d7"
+  },
+  "nombre": "Enciclopedia - Modelo 7",
+  "categoria": "Libros",
+  "precio": 29.69,
+  "stock": 91,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "LG",
+  "fecha_agregado": {
+    "$date": "2024-04-25T05:00:00.000Z"
+  },
+  "calificacion": 4.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d8"
+  },
+  "nombre": "Yoyo - Modelo 8",
+  "categoria": "Juguetes",
+  "precio": 254.75,
+  "stock": 66,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "LG",
+  "fecha_agregado": {
+    "$date": "2024-12-20T05:00:00.000Z"
+  },
+  "calificacion": 5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9d9"
+  },
+  "nombre": "Sudadera - Modelo 9",
+  "categoria": "Ropa",
+  "precio": 404.33,
+  "stock": 94,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Apple",
+  "fecha_agregado": {
+    "$date": "2024-08-25T05:00:00.000Z"
+  },
+  "calificacion": 4.9
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9da"
+  },
+  "nombre": "Pantalón - Modelo 10",
+  "categoria": "Ropa",
+  "precio": 41.74,
+  "stock": 93,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-02-23T05:00:00.000Z"
+  },
+  "calificacion": 4.8
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9db"
+  },
+  "nombre": "Trompo - Modelo 11",
+  "categoria": "Juguetes",
+  "precio": 23.55,
+  "stock": 34,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-04-24T05:00:00.000Z"
+  },
+  "calificacion": 3.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9dc"
+  },
+  "nombre": "Mouse - Modelo 12",
+  "categoria": "Electrónica",
+  "precio": 398.78,
+  "stock": 52,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-01-03T05:00:00.000Z"
+  },
+  "calificacion": 4.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9dd"
+  },
+  "nombre": "Vestido - Modelo 13",
+  "categoria": "Ropa",
+  "precio": 146.02,
+  "stock": 17,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Samsung",
+  "fecha_agregado": {
+    "$date": "2024-04-24T05:00:00.000Z"
+  },
+  "calificacion": 3.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9de"
+  },
+  "nombre": "Parlante - Modelo 14",
+  "categoria": "Electrónica",
+  "precio": 476.64,
+  "stock": 26,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-01-17T05:00:00.000Z"
+  },
+  "calificacion": 4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9df"
+  },
+  "nombre": "Red - Modelo 15",
+  "categoria": "Deportes",
+  "precio": 303.73,
+  "stock": 85,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "LG",
+  "fecha_agregado": {
+    "$date": "2024-09-27T05:00:00.000Z"
+  },
+  "calificacion": 4.7
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e0"
+  },
+  "nombre": "Carro de juguete - Modelo 16",
+  "categoria": "Juguetes",
+  "precio": 104.07,
+  "stock": 90,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Adidas",
+  "fecha_agregado": {
+    "$date": "2024-07-26T05:00:00.000Z"
+  },
+  "calificacion": 4.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e1"
+  },
+  "nombre": "Libro de texto - Modelo 17",
+  "categoria": "Libros",
+  "precio": 138.57,
+  "stock": 100,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-07-25T05:00:00.000Z"
+  },
+  "calificacion": 3.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e2"
+  },
+  "nombre": "Laptop - Modelo 18",
+  "categoria": "Electrónica",
+  "precio": 389.24,
+  "stock": 71,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-11-17T05:00:00.000Z"
+  },
+  "calificacion": 3.7
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e3"
+  },
+  "nombre": "Lámpara - Modelo 19",
+  "categoria": "Hogar",
+  "precio": 443.26,
+  "stock": 56,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-08-12T05:00:00.000Z"
+  },
+  "calificacion": 3.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e4"
+  },
+  "nombre": "Raqueta - Modelo 20",
+  "categoria": "Deportes",
+  "precio": 403.11,
+  "stock": 10,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-01-02T05:00:00.000Z"
+  },
+  "calificacion": 3.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e5"
+  },
+  "nombre": "Pesas - Modelo 21",
+  "categoria": "Deportes",
+  "precio": 259.5,
+  "stock": 72,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-11-18T05:00:00.000Z"
+  },
+  "calificacion": 4.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e6"
+  },
+  "nombre": "Sudadera - Modelo 22",
+  "categoria": "Ropa",
+  "precio": 448.22,
+  "stock": 52,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-03-21T05:00:00.000Z"
+  },
+  "calificacion": 4.9
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e7"
+  },
+  "nombre": "Vestido - Modelo 23",
+  "categoria": "Ropa",
+  "precio": 119.3,
+  "stock": 62,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-10-13T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e8"
+  },
+  "nombre": "Cámara digital - Modelo 24",
+  "categoria": "Electrónica",
+  "precio": 13.2,
+  "stock": 31,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9e9"
+  },
+  "nombre": "Short - Modelo 25",
+  "categoria": "Ropa",
+  "precio": 445.5,
+  "stock": 32,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-10-02T05:00:00.000Z"
+  },
+  "calificacion": 3.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9ea"
+  },
+  "nombre": "Biografía - Modelo 26",
+  "categoria": "Libros",
+  "precio": 398.44,
+  "stock": 49,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-05-12T05:00:00.000Z"
+  },
+  "calificacion": 4.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9eb"
+  },
+  "nombre": "Revista - Modelo 27",
+  "categoria": "Libros",
+  "precio": 507.43,
+  "stock": 43,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Adidas",
+  "fecha_agregado": {
+    "$date": "2024-02-28T05:00:00.000Z"
+  },
+  "calificacion": 4.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9ec"
+  },
+  "nombre": "Parlante - Modelo 28",
+  "categoria": "Electrónica",
+  "precio": 148.52,
+  "stock": 48,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-06-06T05:00:00.000Z"
+  },
+  "calificacion": 3.7
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9ed"
+  },
+  "nombre": "Uniforme - Modelo 29",
+  "categoria": "Deportes",
+  "precio": 129.55,
+  "stock": 6,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "HP",
+  "fecha_agregado": {
+    "$date": "2024-06-02T05:00:00.000Z"
+  },
+  "calificacion": 3.9
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9ee"
+  },
+  "nombre": "Manual - Modelo 30",
+  "categoria": "Libros",
+  "precio": 213.56,
+  "stock": 8,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "HP",
+  "fecha_agregado": {
+    "$date": "2024-06-27T05:00:00.000Z"
+  },
+  "calificacion": 3.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9ef"
+  },
+  "nombre": "Carro de juguete - Modelo 31",
+  "categoria": "Juguetes",
+  "precio": 288.22,
+  "stock": 5,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "HP",
+  "fecha_agregado": {
+    "$date": "2024-09-15T05:00:00.000Z"
+  },
+  "calificacion": 3.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f0"
+  },
+  "nombre": "Cámara digital - Modelo 32",
+  "categoria": "Electrónica",
+  "precio": 437.2,
+  "stock": 10,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Samsung",
+  "fecha_agregado": {
+    "$date": "2024-11-18T05:00:00.000Z"
+  },
+  "calificacion": 4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f1"
+  },
+  "nombre": "Balón de fútbol - Modelo 33",
+  "categoria": "Deportes",
+  "precio": 139.03,
+  "stock": 7,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-08-07T05:00:00.000Z"
+  },
+  "calificacion": 4.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f2"
+  },
+  "nombre": "Robot - Modelo 34",
+  "categoria": "Juguetes",
+  "precio": 287.08,
+  "stock": 39,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-12-08T05:00:00.000Z"
+  },
+  "calificacion": 4.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f3"
+  },
+  "nombre": "Cámara digital - Modelo 35",
+  "categoria": "Electrónica",
+  "precio": 415.48,
+  "stock": 5,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Adidas",
+  "fecha_agregado": {
+    "$date": "2024-05-26T05:00:00.000Z"
+  },
+  "calificacion": 3.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f4"
+  },
+  "nombre": "Poesía - Modelo 36",
+  "categoria": "Libros",
+  "precio": 262.52,
+  "stock": 38,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-07-22T05:00:00.000Z"
+  },
+  "calificacion": 4.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f5"
+  },
+  "nombre": "Enciclopedia - Modelo 37",
+  "categoria": "Libros",
+  "precio": 235.05,
+  "stock": 21,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-03-18T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f6"
+  },
+  "nombre": "Camisa - Modelo 38",
+  "categoria": "Ropa",
+  "precio": 179.45,
+  "stock": 40,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Adidas",
+  "fecha_agregado": {
+    "$date": "2024-07-12T05:00:00.000Z"
+  },
+  "calificacion": 3.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f7"
+  },
+  "nombre": "Cargador - Modelo 39",
+  "categoria": "Electrónica",
+  "precio": 395.89,
+  "stock": 40,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-11-07T05:00:00.000Z"
+  },
+  "calificacion": 4.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f8"
+  },
+  "nombre": "Diccionario - Modelo 40",
+  "categoria": "Libros",
+  "precio": 481.64,
+  "stock": 35,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-07-01T05:00:00.000Z"
+  },
+  "calificacion": 4.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9f9"
+  },
+  "nombre": "Manual - Modelo 41",
+  "categoria": "Libros",
+  "precio": 432.26,
+  "stock": 46,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-02-23T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9fa"
+  },
+  "nombre": "Zapatos - Modelo 42",
+  "categoria": "Ropa",
+  "precio": 272.64,
+  "stock": 62,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-12-24T05:00:00.000Z"
+  },
+  "calificacion": 4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9fb"
+  },
+  "nombre": "Reloj de pared - Modelo 43",
+  "categoria": "Hogar",
+  "precio": 163.37,
+  "stock": 20,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "LG",
+  "fecha_agregado": {
+    "$date": "2024-04-15T05:00:00.000Z"
+  },
+  "calificacion": 3.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9fc"
+  },
+  "nombre": "Reloj inteligente - Modelo 44",
+  "categoria": "Electrónica",
+  "precio": 339.95,
+  "stock": 76,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Apple",
+  "fecha_agregado": {
+    "$date": "2024-01-21T05:00:00.000Z"
+  },
+  "calificacion": 3.8
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9fd"
+  },
+  "nombre": "Mouse - Modelo 45",
+  "categoria": "Electrónica",
+  "precio": 155.95,
+  "stock": 61,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-02-16T05:00:00.000Z"
+  },
+  "calificacion": 4.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9fe"
+  },
+  "nombre": "Red - Modelo 46",
+  "categoria": "Deportes",
+  "precio": 59.9,
+  "stock": 37,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-10-15T05:00:00.000Z"
+  },
+  "calificacion": 4.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18c9ff"
+  },
+  "nombre": "Lámpara - Modelo 47",
+  "categoria": "Hogar",
+  "precio": 329.32,
+  "stock": 27,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-07-04T05:00:00.000Z"
+  },
+  "calificacion": 4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca00"
+  },
+  "nombre": "Audífonos - Modelo 48",
+  "categoria": "Electrónica",
+  "precio": 73.87,
+  "stock": 58,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Apple",
+  "fecha_agregado": {
+    "$date": "2024-10-03T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca01"
+  },
+  "nombre": "Poesía - Modelo 49",
+  "categoria": "Libros",
+  "precio": 136.94,
+  "stock": 75,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-12-25T05:00:00.000Z"
+  },
+  "calificacion": 4.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca02"
+  },
+  "nombre": "Raqueta - Modelo 50",
+  "categoria": "Deportes",
+  "precio": 29.85,
+  "stock": 84,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "HP",
+  "fecha_agregado": {
+    "$date": "2024-05-18T05:00:00.000Z"
+  },
+  "calificacion": 3.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca03"
+  },
+  "nombre": "Diccionario - Modelo 51",
+  "categoria": "Libros",
+  "precio": 293.27,
+  "stock": 40,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-04-24T05:00:00.000Z"
+  },
+  "calificacion": 3.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca04"
+  },
+  "nombre": "Cámara digital - Modelo 52",
+  "categoria": "Electrónica",
+  "precio": 327.33,
+  "stock": 11,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Samsung",
+  "fecha_agregado": {
+    "$date": "2024-03-01T05:00:00.000Z"
+  },
+  "calificacion": 3.7
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca05"
+  },
+  "nombre": "Mouse - Modelo 53",
+  "categoria": "Electrónica",
+  "precio": 206.74,
+  "stock": 38,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-04-18T05:00:00.000Z"
+  },
+  "calificacion": 3.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca06"
+  },
+  "nombre": "Estante - Modelo 54",
+  "categoria": "Hogar",
+  "precio": 188.22,
+  "stock": 67,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-12-19T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca07"
+  },
+  "nombre": "Vestido - Modelo 55",
+  "categoria": "Ropa",
+  "precio": 407.36,
+  "stock": 79,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-02-06T05:00:00.000Z"
+  },
+  "calificacion": 3.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca08"
+  },
+  "nombre": "Avión - Modelo 56",
+  "categoria": "Juguetes",
+  "precio": 160.05,
+  "stock": 41,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Samsung",
+  "fecha_agregado": {
+    "$date": "2024-06-12T05:00:00.000Z"
+  },
+  "calificacion": 3.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca09"
+  },
+  "nombre": "Camisa - Modelo 57",
+  "categoria": "Ropa",
+  "precio": 470,
+  "stock": 98,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "LG",
+  "fecha_agregado": {
+    "$date": "2024-03-01T05:00:00.000Z"
+  },
+  "calificacion": 4.8
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca0a"
+  },
+  "nombre": "Mouse - Modelo 58",
+  "categoria": "Electrónica",
+  "precio": 77.86,
+  "stock": 74,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-07-10T05:00:00.000Z"
+  },
+  "calificacion": 4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca0b"
+  },
+  "nombre": "Cómic - Modelo 59",
+  "categoria": "Libros",
+  "precio": 130.38,
+  "stock": 64,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-09-23T05:00:00.000Z"
+  },
+  "calificacion": 3.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca0c"
+  },
+  "nombre": "Audífonos - Modelo 60",
+  "categoria": "Electrónica",
+  "precio": 173.71,
+  "stock": 50,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Adidas",
+  "fecha_agregado": {
+    "$date": "2024-06-24T05:00:00.000Z"
+  },
+  "calificacion": 4.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca0d"
+  },
+  "nombre": "Mesa - Modelo 61",
+  "categoria": "Hogar",
+  "precio": 26.7,
+  "stock": 17,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-05-14T05:00:00.000Z"
+  },
+  "calificacion": 3.9
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca0e"
+  },
+  "nombre": "Teclado - Modelo 62",
+  "categoria": "Electrónica",
+  "precio": 175.58,
+  "stock": 1,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-08-21T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca0f"
+  },
+  "nombre": "Colchoneta - Modelo 63",
+  "categoria": "Deportes",
+  "precio": 400.9,
+  "stock": 81,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Samsung",
+  "fecha_agregado": {
+    "$date": "2024-04-09T05:00:00.000Z"
+  },
+  "calificacion": 3.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca10"
+  },
+  "nombre": "Cuaderno - Modelo 64",
+  "categoria": "Libros",
+  "precio": 25.31,
+  "stock": 24,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "LG",
+  "fecha_agregado": {
+    "$date": "2024-10-01T05:00:00.000Z"
+  },
+  "calificacion": 3.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca11"
+  },
+  "nombre": "Raqueta - Modelo 65",
+  "categoria": "Deportes",
+  "precio": 103.73,
+  "stock": 32,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Apple",
+  "fecha_agregado": {
+    "$date": "2024-12-01T05:00:00.000Z"
+  },
+  "calificacion": 4.7
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca12"
+  },
+  "nombre": "Teléfono inteligente - Modelo 66",
+  "categoria": "Electrónica",
+  "precio": 417.78,
+  "stock": 22,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-07-01T05:00:00.000Z"
+  },
+  "calificacion": 4.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca13"
+  },
+  "nombre": "Balón de fútbol - Modelo 67",
+  "categoria": "Deportes",
+  "precio": 413.14,
+  "stock": 86,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-01-18T05:00:00.000Z"
+  },
+  "calificacion": 3.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca14"
+  },
+  "nombre": "Botines - Modelo 68",
+  "categoria": "Deportes",
+  "precio": 283.33,
+  "stock": 31,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "HP",
+  "fecha_agregado": {
+    "$date": "2024-01-09T05:00:00.000Z"
+  },
+  "calificacion": 3.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca15"
+  },
+  "nombre": "Florero - Modelo 69",
+  "categoria": "Hogar",
+  "precio": 144.82,
+  "stock": 5,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Adidas",
+  "fecha_agregado": {
+    "$date": "2024-05-11T05:00:00.000Z"
+  },
+  "calificacion": 3.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca16"
+  },
+  "nombre": "Medias - Modelo 70",
+  "categoria": "Ropa",
+  "precio": 185.91,
+  "stock": 78,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Apple",
+  "fecha_agregado": {
+    "$date": "2024-02-07T05:00:00.000Z"
+  },
+  "calificacion": 3.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca17"
+  },
+  "nombre": "Libro de texto - Modelo 71",
+  "categoria": "Libros",
+  "precio": 263.18,
+  "stock": 62,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-01-13T05:00:00.000Z"
+  },
+  "calificacion": 4.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca18"
+  },
+  "nombre": "Lámpara - Modelo 72",
+  "categoria": "Hogar",
+  "precio": 34.83,
+  "stock": 34,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-09-04T05:00:00.000Z"
+  },
+  "calificacion": 4.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca19"
+  },
+  "nombre": "Cargador - Modelo 73",
+  "categoria": "Electrónica",
+  "precio": 380.77,
+  "stock": 88,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-05-18T05:00:00.000Z"
+  },
+  "calificacion": 4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca1a"
+  },
+  "nombre": "Botines - Modelo 74",
+  "categoria": "Deportes",
+  "precio": 475.02,
+  "stock": 65,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-02-22T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca1b"
+  },
+  "nombre": "Enciclopedia - Modelo 75",
+  "categoria": "Libros",
+  "precio": 118.54,
+  "stock": 67,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-04-10T05:00:00.000Z"
+  },
+  "calificacion": 3.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca1c"
+  },
+  "nombre": "Botines - Modelo 76",
+  "categoria": "Deportes",
+  "precio": 231.6,
+  "stock": 9,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-01-16T05:00:00.000Z"
+  },
+  "calificacion": 3.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca1d"
+  },
+  "nombre": "Pantalón - Modelo 77",
+  "categoria": "Ropa",
+  "precio": 283.8,
+  "stock": 7,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "LG",
+  "fecha_agregado": {
+    "$date": "2024-10-26T05:00:00.000Z"
+  },
+  "calificacion": 3.1
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca1e"
+  },
+  "nombre": "Sudadera - Modelo 78",
+  "categoria": "Ropa",
+  "precio": 35.69,
+  "stock": 41,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-09-13T05:00:00.000Z"
+  },
+  "calificacion": 5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca1f"
+  },
+  "nombre": "Cámara digital - Modelo 79",
+  "categoria": "Electrónica",
+  "precio": 238.61,
+  "stock": 26,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-09-25T05:00:00.000Z"
+  },
+  "calificacion": 3.9
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca20"
+  },
+  "nombre": "Parlante - Modelo 80",
+  "categoria": "Electrónica",
+  "precio": 418.29,
+  "stock": 79,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-08-10T05:00:00.000Z"
+  },
+  "calificacion": 4.7
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca21"
+  },
+  "nombre": "Tablet - Modelo 81",
+  "categoria": "Electrónica",
+  "precio": 419.6,
+  "stock": 76,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Adidas",
+  "fecha_agregado": {
+    "$date": "2024-01-18T05:00:00.000Z"
+  },
+  "calificacion": 4.7
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca22"
+  },
+  "nombre": "Trompo - Modelo 82",
+  "categoria": "Juguetes",
+  "precio": 63.6,
+  "stock": 70,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Nike",
+  "fecha_agregado": {
+    "$date": "2024-06-18T05:00:00.000Z"
+  },
+  "calificacion": 4.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca23"
+  },
+  "nombre": "Teléfono inteligente - Modelo 83",
+  "categoria": "Electrónica",
+  "precio": 70.7,
+  "stock": 68,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-08-23T05:00:00.000Z"
+  },
+  "calificacion": 4.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca24"
+  },
+  "nombre": "Laptop - Modelo 84",
+  "categoria": "Electrónica",
+  "precio": 206.69,
+  "stock": 3,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-09-14T05:00:00.000Z"
+  },
+  "calificacion": 4.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca25"
+  },
+  "nombre": "Pelota - Modelo 85",
+  "categoria": "Juguetes",
+  "precio": 284.67,
+  "stock": 8,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-02-11T05:00:00.000Z"
+  },
+  "calificacion": 3.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca26"
+  },
+  "nombre": "Biografía - Modelo 86",
+  "categoria": "Libros",
+  "precio": 442.71,
+  "stock": 42,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-10-07T05:00:00.000Z"
+  },
+  "calificacion": 3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca27"
+  },
+  "nombre": "Short - Modelo 87",
+  "categoria": "Ropa",
+  "precio": 57.98,
+  "stock": 12,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "HP",
+  "fecha_agregado": {
+    "$date": "2024-08-11T05:00:00.000Z"
+  },
+  "calificacion": 4.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca28"
+  },
+  "nombre": "Raqueta - Modelo 88",
+  "categoria": "Deportes",
+  "precio": 485.24,
+  "stock": 64,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "LG",
+  "fecha_agregado": {
+    "$date": "2024-06-27T05:00:00.000Z"
+  },
+  "calificacion": 3.6
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca29"
+  },
+  "nombre": "Cómic - Modelo 89",
+  "categoria": "Libros",
+  "precio": 22.94,
+  "stock": 39,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-04-09T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca2a"
+  },
+  "nombre": "Camisa - Modelo 90",
+  "categoria": "Ropa",
+  "precio": 275.03,
+  "stock": 10,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-11-26T05:00:00.000Z"
+  },
+  "calificacion": 4.5
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca2b"
+  },
+  "nombre": "Balón de fútbol - Modelo 91",
+  "categoria": "Deportes",
+  "precio": 216.03,
+  "stock": 25,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-02-19T05:00:00.000Z"
+  },
+  "calificacion": 3.2
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca2c"
+  },
+  "nombre": "Libro de texto - Modelo 92",
+  "categoria": "Libros",
+  "precio": 384.3,
+  "stock": 37,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-08-22T05:00:00.000Z"
+  },
+  "calificacion": 3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca2d"
+  },
+  "nombre": "Guantes - Modelo 93",
+  "categoria": "Deportes",
+  "precio": 464.35,
+  "stock": 96,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Sony",
+  "fecha_agregado": {
+    "$date": "2024-06-18T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca2e"
+  },
+  "nombre": "Sudadera - Modelo 94",
+  "categoria": "Ropa",
+  "precio": 229.17,
+  "stock": 69,
+  "descripcion": "Ideal para uso diario, excelente relación calidad-precio.",
+  "marca": "Xiaomi",
+  "fecha_agregado": {
+    "$date": "2024-11-27T05:00:00.000Z"
+  },
+  "calificacion": 4.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca2f"
+  },
+  "nombre": "Muñeca - Modelo 95",
+  "categoria": "Juguetes",
+  "precio": 450.37,
+  "stock": 69,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "HP",
+  "fecha_agregado": {
+    "$date": "2024-09-23T05:00:00.000Z"
+  },
+  "calificacion": 4.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca30"
+  },
+  "nombre": "Bicicleta - Modelo 96",
+  "categoria": "Deportes",
+  "precio": 17.52,
+  "stock": 84,
+  "descripcion": "Fabricado con materiales resistentes. Garantía incluida.",
+  "marca": "Apple",
+  "fecha_agregado": {
+    "$date": "2024-05-20T05:00:00.000Z"
+  },
+  "calificacion": 3.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca31"
+  },
+  "nombre": "Peluche - Modelo 97",
+  "categoria": "Juguetes",
+  "precio": 43.76,
+  "stock": 48,
+  "descripcion": "Nuevo modelo con características mejoradas.",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2024-06-04T05:00:00.000Z"
+  },
+  "calificacion": 4.4
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca32"
+  },
+  "nombre": "Diccionario - Modelo 98",
+  "categoria": "Libros",
+  "precio": 197.57,
+  "stock": 19,
+  "descripcion": "Producto de alta calidad y gran durabilidad.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-08-06T05:00:00.000Z"
+  },
+  "calificacion": 3.3
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca33"
+  },
+  "nombre": "Teclado - Modelo 99",
+  "categoria": "Electrónica",
+  "precio": 75.07,
+  "stock": 11,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Dell",
+  "fecha_agregado": {
+    "$date": "2024-01-08T05:00:00.000Z"
+  },
+  "calificacion": 4.9
+},
+{
+  "_id": {
+    "$oid": "6afdbbdb6a79c8507d18ca34"
+  },
+  "nombre": "Teclado - Modelo 100",
+  "categoria": "Electrónica",
+  "precio": 415.93,
+  "stock": 70,
+  "descripcion": "Diseño moderno y funcional. Envío rápido disponible.",
+  "marca": "Samsung",
+  "fecha_agregado": {
+    "$date": "2024-05-10T05:00:00.000Z"
+  },
+  "calificacion": 4.6
+},
+{
+  "_id": {
+    "$oid": "6afdbf4cba2a9d658aa9c0b0"
+  },
+  "nombre": "Producto de prueba",
+  "categoria": "Prueba",
+  "precio": 50,
+  "stock": 10,
+  "descripcion": "Producto para demostrar inserción",
+  "marca": "Generico",
+  "fecha_agregado": {
+    "$date": "2026-11-18T15:07:56.373Z"
+  },
+  "calificacion": 3.5
+}]
